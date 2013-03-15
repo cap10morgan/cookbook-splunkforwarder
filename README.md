@@ -33,6 +33,11 @@ Usage
 =====
 1. Add this Cookbook to a Node's Run List.
 
+Resources
+=========
+1. `splunkforwarder_monitor "/path/to/log/file/or/dir"`
+
+This will add monitoring for the requested log file(s) to the Splunk forwarder.
 
 Source
 ======
